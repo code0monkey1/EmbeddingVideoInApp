@@ -6,7 +6,7 @@ step 1 :  place the video file you want to be displayed in the "raw" folder ( yo
 
 step 2 :  add the VideoView widget the the app layout ( in activity_main.xml )
 
-step 3 : now you have to attach the video to the video view .. for that first initialise VideoView in the onclick method and get the videoview widget object  using findViewById()
+step 3 : now you have to attach the video to the video view .. for that first initialise VideoView inside the onCreate() method and get the videoview widget object  using findViewById()
   
 step 4 : next you've got to set the path to the video for the videoView
 
