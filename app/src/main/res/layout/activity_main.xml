@@ -7,7 +7,6 @@
     tools:context=".MainActivity">
 
    // step 2 :
-
     <VideoView
         android:id="@+id/videoView"
         android:layout_width="587dp"
