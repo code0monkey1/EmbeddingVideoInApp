@@ -14,7 +14,7 @@ step 5 : now you need a mediaController object to have control over the playing 
 
 step 6 : next you need to connect the mediaController to the videoView you want it to  control using the setAnchorView method
 
-step 7 : next you  need to connect the videoView to the controller that's it's allowing it to be controlled by (mediaController)
+step 7 : next you  need to connect the videoView to the controller(mediaController)
 
 step 8 : finally start the video
 
