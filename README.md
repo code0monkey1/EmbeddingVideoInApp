@@ -1,5 +1,5 @@
 # EmbedingVideoInApp
-The steps to embedde and play in app videos
+The steps to embed and play in app videos :
 
 
 step 1 :  place the video file you want to be displayed in the "raw" folder ( you'll have to create this folder ) in the resources folder
